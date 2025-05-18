@@ -1,0 +1,28 @@
+﻿  antena.c
+  grafo.c
+C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\grafo.c(189,13): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+      C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\grafo.c(189,13):
+      espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+      C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\grafo.c(189,13):
+      o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+      C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\grafo.c(189,13):
+      esse argumento é usado como um tamanho do buffer
+  
+C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\grafo.c(193,13): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+      C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\grafo.c(193,13):
+      espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+      C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\grafo.c(193,13):
+      o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+      C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\grafo.c(193,13):
+      esse argumento é usado como um tamanho do buffer
+  
+  main.c
+C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\main.c(62,22): warning C4090: 'função': diferentes qualificadores 'const'
+C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\main.c(162,41): warning C4090: 'função': diferentes qualificadores 'const'
+C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\main.c(32,17): warning C4101: 'freqB': variável local não referenciada
+C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\main.c(25,10): warning C4101: 'frequencia': variável local não referenciada
+C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\main.c(24,12): warning C4101: 'y': variável local não referenciada
+C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\main.c(24,9): warning C4101: 'x': variável local não referenciada
+C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\ProjetoEDA_25444\main.c(32,10): warning C4101: 'freqA': variável local não referenciada
+  Gerando Código...
+  ProjetoEDA_25444.vcxproj -> C:\Users\IPCA\Desktop\ProjetoEDA_25444_Fase1\ProjetoEDA_25444\x64\Debug\ProjetoEDA_25444.exe
